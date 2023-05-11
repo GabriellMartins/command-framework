@@ -1,0 +1,4 @@
+name: Framework
+main: json.element.core.Framework
+version: beta
+author: JsonElement
